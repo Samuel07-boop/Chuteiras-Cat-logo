@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loja de Chuteiras</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Chuteiras Pro Player</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Início</a></li>
+                <li><a href="#">Modelos</a></li>
+                <li><a href="#">Contato</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="catalogo">
+        <h2>Confira nossos modelos</h2>
+        <div class="chuteira">
+            <img src="chuteira1.jpg" alt="Chuteira Nike Mercurial">
+            <h3>Nike Mercurial</h3>
+            <p>Velocidade e precisão para os melhores jogadores.</p>
+            <span>R$ 899,90</span>
+        </div>
+
+        <div class="chuteira">
+            <img src="chuteira2.jpg" alt="Chuteira Adidas Predator">
+            <h3>Adidas Predator</h3>
+            <p>Controle total para dominar o jogo.</p>
+            <span>R$ 799,90</span>
+        </div>
+
+        <div class="chuteira">
+            <img src="chuteira3.jpg" alt="Chuteira Puma Future">
+            <h3>Puma Future</h3>
+            <p>Conforto e estilo para os craques.</p>
+            <span>R$ 749,90</span>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Chuteiras Pro Player - Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
